@@ -1,4 +1,2 @@
 This file is from master
-
-This is added from local master branch
-
+This is added from remote master branch.
